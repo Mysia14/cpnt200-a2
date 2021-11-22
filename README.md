@@ -5,18 +5,17 @@ Mysia Santana
 
 ## Links:
 * GH repo:
-* Netlify page:
+* Netlify page:[Netlify App](https://lucid-visvesvaraya-e0e956.netlify.app/admin/#/collections/blog) 
 
  #### Code Review:
- - The way how the Vue uses the components it was what I liked most. And how we van work with the Tailwindcss.
- - Unfortunately I had a bad time wiht my image that was not loadinhg. I thought that could be my nuxt-link that coulbe be broken or some syntax error but after a couple hours working on it I realized that was something wrong with image that I ahve chosen, even its was in my root directory. So the issue was fixed when I got another image from the Pexel's website.
+ - Working with the collections its was pretty good. Although the Netlify setup was a kind of tricky I;ve enjoy the features that were avaible. The "{slug}" was something that I realized that is a "sensitive" identifier. Someting to always pay attention. It was kind of hard rember all the building setup so I ahd to check it out constanly to see whatit was missing.Overall how deploy a page on Netlify it was surprising good and I hope go deeper in it later. And I would like to work more with the design of the collections.
 
 
 ## Attributions:
 
 - Fesal Baday for help who spent hours to figure out wiht me why netlify page was not found. After delete the old repo and made a new one, we decied to not change the domain's name. Because even having all the correct Netlify setup we beleive that mayve this domamin's name changig somehow brought some difficulties.
 - Ashlyn Knox for 
-- Image from [](/).
+- Image from [Pexel -  Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
 
 ## Build Setup
 
