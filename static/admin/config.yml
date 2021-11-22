@@ -35,12 +35,15 @@ collections:
       - { label: "Image", name: "image", widget: "image", multiple: true }
   - name: "archive"
     label: "Photos"
+    folder: "content/photos"
+    format: "frontmatter"
+    create: true
     widget: "image"
     choose_url: true
-    default: "/assets/fall.jpg"
+    default: "/uploads/chocolate-dogecoin.jpg"
     media_library:
-    config:
-    multiple: true
+      config:
+        multiple: true
     
  
 
