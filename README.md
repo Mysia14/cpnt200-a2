@@ -4,7 +4,7 @@
 Mysia Santana
 
 ## Links:
-* GH repo:
+* GH repo: https://mysia14.github.io/cpnt200-a2/
 * Netlify page:[Netlify App](https://lucid-visvesvaraya-e0e956.netlify.app/admin/#/collections/blog) 
 
  #### Code Review:
@@ -13,7 +13,7 @@ Mysia Santana
 
 ## Attributions:
 
-- Fesal Baday for help who spent hours to figure out wiht me why netlify page was not found. After delete the old repo and made a new one, we decied to not change the domain's name. Because even having all the correct Netlify setup we beleive that mayve this domamin's name changig somehow brought some difficulties.
+- [Fesal Baday](https://github.com/FesalBadday) for help who spent hours to figure out wiht me why netlify page was not found. After delete the old repo and made a new one, we decied to not change the domain's name. Because even having all the correct Netlify setup we beleive that mayve this domamin's name changig somehow brought some difficulties.
 - Ashlyn Knox for 
 - Image from [Pexel -  Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
 
