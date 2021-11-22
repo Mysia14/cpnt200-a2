@@ -40,7 +40,7 @@ collections:
     create: true
     widget: "image"
     choose_url: true
-    default: "/uploads/chocolate-dogecoin.jpg"
+    default: "/images/fall.jpg"
     media_library:
       config:
         multiple: true
