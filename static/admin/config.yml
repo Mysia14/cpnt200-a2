@@ -34,18 +34,14 @@ collections:
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Image", name: "image", widget: "image", multiple: true }
   - name: "archive"
-    label: "Previous Posts"
-    folder: "content/posts"
-    format: "frontmatter"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    editor:
-      preview: true
-    fields:
-      - { label: "Year", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Image", name: "image", widget: "image", multiple: true }
+    label: "Photos"
+    widget: "image"
+    choose_url: true
+    default: "/assets/fall.jpg"
+    media_library:
+    config:
+    multiple: true
+    
  
 
   
