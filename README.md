@@ -4,11 +4,12 @@
 Mysia Santana
 
 ## Links:
-* GH repo: https://mysia14.github.io/cpnt200-a2/
-* Netlify page:[Netlify App](https://lucid-visvesvaraya-e0e956.netlify.app/admin/#/collections/blog) 
+* GH repo: https://github.com/Mysia14/cpnt200-temp
+* Netlify page:[Netlify App](https://lucid-visvesvaraya-e0e956.netlify.app) 
 
  #### Code Review:
  - Working with the collections its was pretty good. Although the Netlify setup was a kind of tricky I;ve enjoy the features that were avaible. The "{slug}" was something that I realized that is a "sensitive" identifier. Someting to always pay attention. It was kind of hard rember all the building setup so I ahd to check it out constanly to see whatit was missing.Overall how deploy a page on Netlify it was surprising good and I hope go deeper in it later. And I would like to work more with the design of the collections.
+ - "Git Gateway Error: Please ask your site administrator to reissue the Git Gateway token." = I got this error message when I tried to open my netlify project link, so after some research I found that happened because I changed the repo's name submit it to the BrightSpace (assignment requiriment). So because of the due date of the assignment I have decided to not delete my page so I would have to rebuild it and problably would have the same issue had I in the first deployment trying. Considering that I have decided to keep the repo's old name (cpnt200-tem) 
 
 
 ## Attributions:
